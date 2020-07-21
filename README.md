@@ -20,14 +20,18 @@ Lista de echipe.
 --Numar de puncte
 --Culoare echipament
 
+Clasa meci:
+timp inceput meci 
+timp sfarsit meci
 
 metoda  finalmeci (echipa1, echipa2, scor1, scor2)
 {
 --afli castigatoare
 --memorezi meciul in baza
 --incrementezi punctele echipei
-
 }
+
+
 
 Metode Echipa:
 --Creat echipa
