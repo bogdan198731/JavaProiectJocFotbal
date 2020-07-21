@@ -18,13 +18,22 @@ Lista de echipe.
 --Numar jucatori
 --Componenta echipa 
 --Numar de puncte
---Numar puncte total 
 --Culoare echipament
 
+
+metoda  finalmeci (echipa1, echipa2, scor1, scor2)
+{
+--afli castigatoare
+--memorezi meciul in baza
+--incrementezi punctele echipei
+
+}
+
+
+
 Metode Echipa:
---creat echipa
+--Creat echipa
 --inserezi o lista de jucatori 
---
 
 
 --UI
@@ -41,9 +50,8 @@ String nume;
 int  nrJucatori;
 componenta List<jucatori>;
 in numarpct
-
-
 }
+
 --##de aratat Bogdan  jucatorul sa deriveze din echipa 
 Clasa jucatori
 {
@@ -53,4 +61,4 @@ echipa ;
 
 clasa jucator extends echipa 
 {
-}
+};
