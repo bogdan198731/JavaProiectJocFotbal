@@ -74,3 +74,5 @@ echipa ;
 clasa jucator extends echipa 
 {
 };
+
+UI in ce il facem.
