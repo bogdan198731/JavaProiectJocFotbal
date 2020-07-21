@@ -29,11 +29,23 @@ metoda  finalmeci (echipa1, echipa2, scor1, scor2)
 
 }
 
-
-
 Metode Echipa:
 --Creat echipa
 --inserezi o lista de jucatori 
+
+
+
+finaletapa (echipa1,echipa2,echipa3)
+{
+sortare pe ele dupa numarul de pct. Daca numarul de pct e egal bagi golaverajul
+}
+
+Repository
+metoda Totalul punctelor pe echipa  interval
+metoda Totalul golurilor date pe echipa pe interval
+metoda Totalul golurilor primite pe echipa
+metoda Totalul golurilor primite de la cine 
+
 
 
 --UI
